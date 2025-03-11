@@ -1,7 +1,34 @@
-#navbar{ 
-    margin: 0px;
-    padding: 10px;
-    background-color: rgb(153, 153, 153);
+#navbar{  
+    background-color: rgb(214, 214, 214);
     color:rgb(0, 0, 0);
+    margin: 0px;
+    padding: 1px;
+
 }
-    
+
+body{ 
+    margin: 0px;
+    padding: 0px;   
+    border: 20px; 
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    #amarelo{
+        background-color: rgb(255, 212, 101);
+        padding: 10px;
+    }
+    .cinza{
+        background-color: rgb(214, 214, 214);
+        padding: 10px;
+    }
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.emoj{
+    border-color: rgb(143, 143, 143);
+    border-style: solid;
+
+}
